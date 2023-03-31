@@ -33,8 +33,8 @@ Above are screenshots of my solution for desktop and mobile device design.
 
 ## My process
 
-- First I created a <div class="container"></div> for full width and height of device and gave display: flex and make it's content center;
-- Secondaly I create a div with class qr-code and inside it I put qr code image in <img /> tag, heading in <h3></h3> and paragram in <p></p>
+- First I created a container div for full width and height of device and gave display: flex and make it's content center;
+- Secondaly I create a div with class qr-code and inside it I put qr code image in img tag, heading in h3 and paragram in p
 - Lastly I styled content as required using flex-box.
 
 ### Built with
