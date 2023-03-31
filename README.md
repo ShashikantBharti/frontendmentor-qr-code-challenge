@@ -28,8 +28,8 @@ Above are screenshots of my solution for desktop and mobile device design.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ShashikantBharti/frontendmentor-qr-code-challenge)
+- Live Site URL: [Add live site URL here](https://shashikantbharti.github.io/frontendmentor-qr-code-challenge/)
 
 ## My process
 
